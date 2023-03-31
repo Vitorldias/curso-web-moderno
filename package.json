@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "curso-web-moderno",
+  "version": "1.0.0",
+  "description": "ex20",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitorldias/curso-web-moderno.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitorldias/curso-web-moderno/issues"
+  },
+  "homepage": "https://github.com/Vitorldias/curso-web-moderno#readme"
+}
